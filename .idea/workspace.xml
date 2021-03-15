@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b86c118-f7fd-4d76-a966-2c1fce12ee9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assests/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manageCustomers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manageProducts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopNow.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pYRGGbGuzEjyGOqHHMrBvPl4pm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests\img" />
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests\img" />
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b86c118-f7fd-4d76-a966-2c1fce12ee9d" name="Default Changelist" comment="" />
+      <created>1615357939586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615357939586</updated>
+      <workItem from="1615357945504" duration="6192000" />
+      <workItem from="1615371328160" duration="3554000" />
+      <workItem from="1615384183045" duration="4693000" />
+      <workItem from="1615432319848" duration="50000" />
+      <workItem from="1615472115598" duration="3010000" />
+      <workItem from="1615479397459" duration="1691000" />
+      <workItem from="1615531542502" duration="3652000" />
+      <workItem from="1615614029230" duration="1649000" />
+      <workItem from="1615781591394" duration="5803000" />
+      <workItem from="1615788150048" duration="12308000" />
+      <workItem from="1615812287139" duration="26000" />
+      <workItem from="1615812328023" duration="1650000" />
+      <workItem from="1615818289666" duration="1621000" />
+      <workItem from="1615820101076" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
