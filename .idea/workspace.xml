@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b86c118-f7fd-4d76-a966-2c1fce12ee9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/icons/186492-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/icons/67-675913_text-symbol-black-and-white-report-icon-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/icons/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/icons/linecon+products+round+icon-1320165923260225670.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/js/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/CustomerController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/DashBoardController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/OrderController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/ProductController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dto/CustomerDTO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dto/OrderDTO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dto/OrderDetailDTO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dto/ProductDTO.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assests/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assests/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manageCustomers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manageProducts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopNow.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +28,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="POS_System-SPA" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,19 +47,26 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/POS-System-main" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests\img" />
-      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-SPA\assests\js" />
       <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests\img" />
       <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-SPA\assests\icons" />
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests\img" />
+      <recent name="C:\Users\dell\Desktop\IJSE\Lessons\Sem-02\Internet Technologies\Javascript\POS_System-BootStrap\assests" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,6 +80,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="OrderController.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/controller/OrderController.js" working-dir="$PROJECT_DIR$/controller">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.OrderController.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,6 +115,23 @@
       <workItem from="1615812328023" duration="1650000" />
       <workItem from="1615818289666" duration="1621000" />
       <workItem from="1615820101076" duration="219000" />
+      <workItem from="1615820796488" duration="483000" />
+      <workItem from="1615864152600" duration="5836000" />
+      <workItem from="1615874527328" duration="2015000" />
+      <workItem from="1615958658228" duration="3376000" />
+      <workItem from="1615989422390" duration="6430000" />
+      <workItem from="1616035749118" duration="6946000" />
+      <workItem from="1616044681022" duration="15977000" />
+      <workItem from="1616077984088" duration="10228000" />
+      <workItem from="1616149362015" duration="2291000" />
+      <workItem from="1616257438781" duration="1690000" />
+      <workItem from="1616264163681" duration="2436000" />
+      <workItem from="1616296334557" duration="26750000" />
+      <workItem from="1616337057543" duration="4132000" />
+      <workItem from="1616378918058" duration="7453000" />
+      <workItem from="1616387970182" duration="8288000" />
+      <workItem from="1616397566672" duration="1346000" />
+      <workItem from="1616398935873" duration="15721000" />
     </task>
     <servers />
   </component>

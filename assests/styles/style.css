@@ -142,24 +142,35 @@ label{
     font-size: 13px;
 }
 .form-control{
+    border: none;
+    border-radius: 20px;
     background: lightgrey;
     width:200px;
 }
+#txtQuantity{
+    border: none;
+    border-radius: 20px;
+    background: lightgrey;
+    width:67px;
+    margin-left: 7px;
+}
+/*#lblTotal{*/
+/*    border: none;*/
+/*    border-radius: 10px;*/
+/*    background: lightgrey;*/
+/*    width:67px;*/
+/*    height: 20px;*/
+/*    padding-top: 25px;*/
+/*}*/
 .btn{
     width: 100px;
 }
 .btns{
     padding-top: 20px;
 }
-.col-5{
-    background: #0a53be;
-    border-radius: 20px;
-    height: 350px;
-    padding-left: 10px;
-}
-.col-7{
-    border-radius: 20px;
-    height: 350px;
+.row>*{
+    margin-top: 42px;
+
 }
 .container{
     padding-top: 20px;
@@ -178,18 +189,21 @@ label{
     padding-top: 30px;
 }
 .addToCartBtn1{
-    padding-top:100px;
+    padding-top:-8px;
     border-radius: 30px;
-    width: 100px;
-    padding-left: 80px;
+    padding-left: 0px;
+    padding-top: 120px;
+    height: 50px;
+    margin-left: 15px;
 }
 .addToCartBtn{
     border-radius: 30px;
+    width: 93px;
 }
 .butCartBtn{
-
     border-radius: 30px;
-    width: 100px;
+    width: 70px;
+    margin-left: 120px;
 }
 .col-1{
     padding-top: 30px;
@@ -209,3 +223,136 @@ label{
     padding-left: 350px;
 }
 
+#lblDate{
+   color: green;
+}
+#lblOrderId{
+    font-family: "Baskerville Old Face";
+    font-size: 20px;
+    color: green;
+    margin-bottom: -50px;
+}
+.col-autoLbl{
+    margin-top: -5px;
+}
+.form-control{
+    margin-top: -7px;
+}
+#sectionCustomer{
+    background: floralwhite;
+    margin-top: -5px;
+}
+#customerTable{
+    background: floralwhite;
+    margin-top: -5px;
+}
+#productSection{
+    background: floralwhite;
+    margin-top: 10px;
+}
+#productTable{
+    background: floralwhite;
+    margin-top: -5px;
+}
+
+#custSect{
+    background: #0a53be;
+    border-radius: 20px;
+    height: 296px;
+    padding-left: 10px;
+    margin-top: -24px;
+}
+#ProSect{
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+#dots{
+    color: white;
+}
+#btnAddItemToCart{
+    padding-top: 20px;
+}
+#totalSection{
+    margin-top: 34px;
+    margin-left: 100px;
+}
+#total{
+    color: #0a58ca;
+}
+#grandTot{
+    color: red;
+}
+#lblGrandTot{
+     color: red;
+    margin-left: 10px;
+
+}
+#balance{
+    color: green;
+}
+#lblTotal{
+    width: 80px;
+    height: 30px;
+    border: 1px solid white;
+    margin-left: 55px;
+    padding-top: 0px;
+    color: #0a58ca;
+}
+#lblDiscount,#lblGrandTot,#lblCash,#lblBalance,#lblTotal{
+    width: 100px;
+    height: 30px;
+    border: 1px solid white;
+    padding-top: 0px;
+}
+#lblDiscount{
+    margin-left: 32px;
+}
+#lblCash {
+    margin-left: 57px;
+}
+#lblBalance{
+    margin-left: 40px;
+
+}
+#btnSearchOrder{
+    margin-top: -8px;
+}
+/*#btnRemoveItemFromCart{*/
+/*    width: 20px;*/
+/*}*/
+#name{
+    font-family: "Castellar";
+    color: orangered;
+}
+#below{
+    margin-left: -200px;
+}
+#sec{
+    margin-left: -400px;
+    margin-top: 50px;
+}
+#sec1,#sec2,#sec3,#sec4{
+     height: 200px;
+     width: 200px;
+     background: white;
+ }
+#sec2{
+    margin-left: 200px;
+}
+#sec2{
+    margin-left: 200px;
+}
+#sec3{
+    margin-left: 400px;
+}
+#sec4{
+    margin-left: 600px;
+}
+#imgsec1,#imgsec2,#imgsec3,#imgsec4{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
